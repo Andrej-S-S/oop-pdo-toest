@@ -5,7 +5,7 @@ define('DB_USER', 'root');
 define('DB_PASS', '');
 define('DB_NAME', 'mvc-2109b');
  
-
+    
 define('APPROOT', dirname(dirname(__FILE__)));
 
  
