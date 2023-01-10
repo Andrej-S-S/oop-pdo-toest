@@ -7,7 +7,7 @@ define('DB_NAME', 'mvc-2109b');
       
     
 define('APPROOT', dirname(dirname(__FILE__)));
-
+     
  
 define('URLROOT', 'http://mvc-oop-pdo-toets-userstory.com');
 
